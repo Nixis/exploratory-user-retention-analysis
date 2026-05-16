@@ -127,7 +127,7 @@ This stage reinforced concepts related to:
 ## Repository Structure
 
 ```text
-waze-user-retention-analysis
+exploratory-user-retention-analysis
 │
 ├── data
 ├── notebooks
