@@ -195,6 +195,6 @@ These additions could help transition the project from exploratory analytics tow
 
 ## Author
 
-**Nixis Carrero Candelas**
+**Nixis Carrero**
 
 Geoscientist | Data Analytics 
